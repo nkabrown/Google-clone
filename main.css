@@ -125,7 +125,10 @@ input:focus {
 }
 
 .buttons:hover {
-	border-bottom: 3px solid #d6dbe2;
+	border-bottom: 2.5px solid #d6dbe2;
+	border-top: 1px solid #d6dbe2;
+	border-right: 1px solid #d6dbe2;
+	border-left: 1px solid #d6dbe2;
 }
 
 .btn {
